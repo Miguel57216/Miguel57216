@@ -16,29 +16,3 @@ Key Expertise
 ✔️ AI Development: Integrating advanced AI-driven features for innovative solutions.
 ✔️ DevOps: Expertise in deployment and server management using AWS, DigitalOcean, SiteGround, GoDaddy, and Bluehost.
 ✔️ Database Management: Proficiency in SQL, MySQL, PostgreSQL, MongoDB, MariaDB, and other database systems for secure, scalable solutions.
-
-What I Can Offer:
-✅ Full Stack Development
-✅ Website Development According to Your Business Needs
-✅ User-Centric Design
-✅ Google Maps Integration
-✅ Payment Gateways (Stripe, Paypal)
-✅ API Development and Integration (GraphQL, REST)
-✅ Database Management and Optimization
-✅ Authentication and Authorization Systems
-✅ Scalable Cloud Solutions
-✅ Expertise in Bug Fixing & Error Resolving
-✅ Third-Party API Integration
-✅ ChatGPT and OpenAI Integration
-✅ Deployment and Maintenance
-
-Certifications:
-🏆 Meta Front-End Developer Certificate by Coursera
-🏆 Back End Development and APIs by freeCodeCamp
-🏆 The Complete 2023 Web Development Bootcamp by Udemy
-🏆 IBM Python for Data Science, AI & Development by Coursera
-
-If you’re looking for a professional who will not only deliver results but also ensure a smooth, collaborative, and value-driven experience, I’m ready to help. Let’s work together to turn your ideas into reality and create something truly extraordinary.
-
-Warm regards,
-Miguel
